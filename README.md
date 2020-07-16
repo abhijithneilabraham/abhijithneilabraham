@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://cdn.dribbble.com/users/2555721/screenshots/5616952/007-brain-lightbulb-dribbble.gif)
+![](https://66.media.tumblr.com/d40c6daf51b6b2b7c060b1019574aa06/tumblr_nv3ijoGcGS1qav3uso1_540.gif)
 
 🔭 I'm currently working as a Freelance Machine Learning Developer.  
 🌱 Current Focus-AI/NLP/DS  
