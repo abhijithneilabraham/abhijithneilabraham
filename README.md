@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://66.media.tumblr.com/d40c6daf51b6b2b7c060b1019574aa06/tumblr_nv3ijoGcGS1qav3uso1_540.gif)
+![](https://media.tenor.com/images/76ddd52c083db7ed839874e3e28a8119/tenor.gif)
 
 🔭 I'm currently working as a Freelance Machine Learning Developer.  
 🌱 Current Focus-AI/NLP/DS  
