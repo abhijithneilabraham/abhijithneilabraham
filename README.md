@@ -1,11 +1,12 @@
 ### Hi there 👋
+<!--
 ![](https://media.tenor.com/images/76ddd52c083db7ed839874e3e28a8119/tenor.gif)
+-->
 
-🔭 I'm currently working as a Freelance Machine Learning Developer.  
-🌱 Current Focus-AI/NLP/DS  
-👯 Looking for opportunities to collaborate on the same, also taking up open source works.  
-📫 Hire me?Sure. Reach me at [Mail](abhijithneilabrahampk@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
-Wanna see a description of my projects? Sure : http://abhijithneilabraham.me/. 
+🔭 Helping Enterprises build AI solutions.  
+👯 Available for open source work.   
+📫 Reach me at [Mail](abhijithneilabrahampk@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
+Portfolio: http://abhijithneilabraham.me/. 
 
 <!--
 **abhijithneilabraham/abhijithneilabraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
