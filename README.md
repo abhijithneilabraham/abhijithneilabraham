@@ -4,7 +4,7 @@
 -->
 
 🔭 Helping Enterprises build AI solutions.  
-👯 Available for open source work.   
+👯 Contributing to and creating open source.   
 📫 Reach me at [Mail](abhijithneilabrahampk@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
 Portfolio: http://abhijithneilabraham.me/. 
 
