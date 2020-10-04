@@ -3,7 +3,7 @@
 ![](https://media.tenor.com/images/76ddd52c083db7ed839874e3e28a8119/tenor.gif)
 -->
 
-🔭 Helping Enterprises build AI solutions.Hire me for remote ML/NLP.      
+🔭 Helping Enterprises build AI solutions.Working for Machine Learning R&D at insent.ai   
 👯 Contributing to and creating open source.Currently maintaining [tableQA](https://github.com/abhijithneilabraham/tableQA).  
 📫 Reach me at [Mail](abhijithneilabrahampk@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
 Portfolio: http://abhijithneilabraham.me/. 
