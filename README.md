@@ -4,9 +4,11 @@
 -->
 
 🔭 Helping Enterprises build AI solutions.    
-👯 Contributing to and creating open source.Currently maintaining [tableQA](https://github.com/abhijithneilabraham/tableQA).  
+👯 Contributing to and creating open source.Currently maintaining [tableQA](https://github.com/abhijithneilabraham/tableQA).     
 📫 Reach me at abhijithneilabrahampk@gmail.com or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
-Portfolio: http://abhijithneilabraham.me/. 
+Portfolio: http://abhijithneilabraham.me/.      
+
+To know how I iterated my career, check out my [AI roadmap](https://app.reallyconfused.co/roadmap?roadmap=141) ! 
 
 <!--
 **abhijithneilabraham/abhijithneilabraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
