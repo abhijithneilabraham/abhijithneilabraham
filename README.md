@@ -7,7 +7,9 @@
 ⚡ AI Researcher at Saama Research.    
 👯 Contributing to and creating open source.Currently maintaining [tableQA](https://github.com/abhijithneilabraham/tableQA).     
 📫 Reach me at abhijithneilabrahampk@gmail.com or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
-Portfolio: http://abhijithneilabraham.github.io/.      
+Portfolio: http://abhijithneilabraham.github.io/.         
+
+Recent Blog: https://blog.paperspace.com/question-answering-models-a-comparison/
 
 
 <!--
