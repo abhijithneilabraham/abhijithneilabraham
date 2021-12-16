@@ -5,8 +5,10 @@
 
 🔭 Helping Enterprises build AI solutions.   
 ⚡ AI Researcher at Saama Research.    
-👯 Contributing to and creating open source.Currently maintaining [tableQA](https://github.com/abhijithneilabraham/tableQA).     
+👯 I love open source! Ping me for any collaborations that you wanna make!     
 📫 Reach me at abhijithneilabrahampk@gmail.com or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
+
+My Huggingface Profile: https://huggingface.co/abhijithneilabraham.  
 Portfolio: http://abhijithneilabraham.github.io/.         
 
 Recent Blogs: 
