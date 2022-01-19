@@ -3,9 +3,10 @@
 ![](https://media.tenor.com/images/76ddd52c083db7ed839874e3e28a8119/tenor.gif)
 -->
 
-🔭 Helping Enterprises build AI solutions.   
+🔭 Helping Enterprises build AI solutions.       
+⚡  Resume:   [Download here!](https://github.com/abhijithneilabraham/abhijithneilabraham.github.io/blob/master/images/ML%20Resume%20Abhigith.pdf)  
 ⚡ AI Researcher at Saama Research.    
-👯 I love open source! Ping me for any collaborations that you wanna make!     
+⚡ I love open source! Ping me for any collaborations that you wanna make!     
 📫 Reach me at abhijithneilabrahampk@gmail.com or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
 
 My Huggingface Profile: https://huggingface.co/abhijithneilabraham.  
