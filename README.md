@@ -33,3 +33,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### Currently active in the following and creating a set of tools for easy access into AI for any researcher community  👋
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=talos)](https://github.com/autonomio/talos) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=wrangle)](https://github.com/autonomio/wrangle) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=signs)](https://github.com/autonomio/signs) 
