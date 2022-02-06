@@ -15,6 +15,11 @@ Portfolio: http://abhijithneilabraham.github.io/.
 Recent Blogs: 
 - https://blog.paperspace.com/question-answering-models-a-comparison/
 - https://blog.paperspace.com/tapas-question-answering/
+- https://blog.paperspace.com/sentence-embeddings-pytorch-lightning/
+
+Research Publications-   
+- [TableQuery: Querying tabular data with natural language](https://arxiv.org/abs/2202.00454).    
+- [Deep Learning applications with Python-Springer Journal](https://link.springer.com/chapter/10.1007%2F978-3-030-66519-7_2)
 
 
 
