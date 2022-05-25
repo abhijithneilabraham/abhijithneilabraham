@@ -3,7 +3,10 @@
 ![](https://media.tenor.com/images/76ddd52c083db7ed839874e3e28a8119/tenor.gif)
 -->
 
-🔭 Helping Enterprises build AI solutions.       
+🔭 Usually AI, but generalist and curious. Might turn things upside down.   
+
+I update the software but doesn't update the resume often 😬 
+     
 ⚡  Resume:   [Download here!](https://github.com/abhijithneilabraham/abhijithneilabraham.github.io/blob/master/images/ML%20Resume%20Abhigith.pdf)  
 ⚡ AI Research Engineer & Open Source contributor   
 ⚡ I love open source! Ping me for any collaborations that you wanna make!     
