@@ -6,6 +6,10 @@
 🔭 Usually AI, but generalist and curious. Might turn things upside down.   
 
 I update the software but doesn't update the resume often 😬 
+
+Most active these days on the following open source projects:   
+[Jako](https://github.com/autonomio/jako).  
+[Redditflow](https://github.com/nfflow/redditflow)   
      
 ⚡  Resume:   [Download here!](https://github.com/abhijithneilabraham/abhijithneilabraham.github.io/blob/master/images/ML%20Resume%20Abhigith.pdf)  
 ⚡ AI Research Engineer & Open Source contributor   
