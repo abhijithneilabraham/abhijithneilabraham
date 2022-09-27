@@ -5,11 +5,7 @@
 
 🔭 Usually AI, but generalist and curious. Might turn things upside down.   
 
-I update the software but doesn't update the resume often 😬 
 
-Most active these days on the following open source projects:   
-[Jako](https://github.com/autonomio/jako).  
-[Redditflow](https://github.com/nfflow/redditflow)   
      
 ⚡  Resume:   [Download here!](https://github.com/abhijithneilabraham/abhijithneilabraham.github.io/blob/master/images/ML%20Resume%20Abhigith.pdf)  
 ⚡ AI Research Engineer & Open Source contributor   
@@ -50,6 +46,7 @@ Here are some ideas to get you started:
 
 ### Currently active in the following and creating a set of tools for easy access into AI for any researcher community  👋
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=jako)](https://github.com/autonomio/jako)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=talos)](https://github.com/autonomio/talos) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=wrangle)](https://github.com/autonomio/wrangle) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=signs)](https://github.com/autonomio/signs) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=dedomena)](https://github.com/autonomio/dedomena) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=examples)](https://github.com/autonomio/examples) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=EasyEnergy)](https://github.com/autonomio/EasyEnergy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=talos)](https://github.com/autonomio/talos) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nfflow&repo=pubmedflow)](https://github.com/nfflow/pubmedflow) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nfflow&repo=redditflow)](https://github.com/nfflow/redditflow) 
