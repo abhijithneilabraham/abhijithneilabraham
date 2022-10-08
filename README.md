@@ -3,7 +3,7 @@
 ![](https://media.tenor.com/images/76ddd52c083db7ed839874e3e28a8119/tenor.gif)
 -->
 
-🔭 Usually AI, but generalist and curious. Might turn things upside down.   
+🔭 Usually I work in everything related to AI, but generalist and curious about everything else too. Might turn things upside down.   
 
 
      
