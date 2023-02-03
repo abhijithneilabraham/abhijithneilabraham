@@ -21,6 +21,7 @@ Recent Blogs:
 - https://blog.paperspace.com/sentence-embeddings-pytorch-lightning/
 
 Research Publications-   
+- [BioSimCSE: BioMedical Sentence Embeddings using Contrastive learning](https://aclanthology.org/2022.louhi-1.10/).  
 - [TableQuery: Querying tabular data with natural language](https://arxiv.org/abs/2202.00454).    
 - [Deep Learning applications with Python-Springer Journal](https://link.springer.com/chapter/10.1007%2F978-3-030-66519-7_2)
 
