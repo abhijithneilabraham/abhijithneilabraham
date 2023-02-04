@@ -5,7 +5,7 @@
 
 🔭 Usually I work in everything related to AI, but generalist and curious about everything else too. Might turn things upside down.   
 
-
+If you're building your own product/startup and want to have a chat, ping me!   
      
 ⚡  Resume:   [Download here!](https://github.com/abhijithneilabraham/abhijithneilabraham.github.io/blob/master/images/ML%20Resume%20Abhigith.pdf)  
 ⚡ AI Research Engineer & Open Source contributor   
