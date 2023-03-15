@@ -7,7 +7,7 @@
 
 If you're building your own product/startup and want to have a chat, ping me!   
      
-⚡  Resume:   [Download here!](https://github.com/abhijithneilabraham/abhijithneilabraham.github.io/blob/master/images/ML%20Resume%20Abhigith.pdf)  
+⚡  Resume:   [Download here!](https://github.com/abhijithneilabraham/abhijithneilabraham.github.io/blob/master/ML%20Resume%20Abhigith.pdf)  
 ⚡ AI Research Engineer & Open Source contributor   
 ⚡ I love open source! Ping me for any collaborations that you wanna make!     
 📫 Reach me at abhijithneilabrahampk@gmail.com or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
