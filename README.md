@@ -3,12 +3,8 @@
 ![](https://media.tenor.com/images/76ddd52c083db7ed839874e3e28a8119/tenor.gif)
 -->
 
-🔭 Usually I work in everything related to AI, but generalist and curious about everything else too. Might turn things upside down.   
-
-If you're building your own product/startup and want to have a chat, ping me!   
-     
-⚡  Resume:   [Download here!](https://github.com/abhijithneilabraham/abhijithneilabraham.github.io/blob/master/ML%20Resume%20Abhigith.pdf)  
-⚡ AI Research Engineer & Open Source contributor   
+🔭 Usually I work in everything related to AI, but generalist and curious about everything else too. Might turn things upside down.     
+⚡ Open Source contributor.   
 ⚡ I love open source! Ping me for any collaborations that you wanna make!     
 📫 Reach me at abhijithneilabrahampk@gmail.com or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
 
