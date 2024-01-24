@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 
-### Currently active in the following and creating a set of tools for easy access into AI for any researcher community  👋
+###  👋
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=jako)](https://github.com/autonomio/jako)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=EasyEnergy)](https://github.com/autonomio/EasyEnergy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=talos)](https://github.com/autonomio/talos) 
