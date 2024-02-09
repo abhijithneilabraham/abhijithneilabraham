@@ -41,9 +41,7 @@ Here are some ideas to get you started:
 
 
 
-###  👋
+###  👋 Some fun projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=jako)](https://github.com/autonomio/jako)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=EasyEnergy)](https://github.com/autonomio/EasyEnergy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=talos)](https://github.com/autonomio/talos) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nfflow&repo=pubmedflow)](https://github.com/nfflow/pubmedflow) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nfflow&repo=redditflow)](https://github.com/nfflow/redditflow) 
