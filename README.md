@@ -3,9 +3,8 @@
 ![](https://media.tenor.com/images/76ddd52c083db7ed839874e3e28a8119/tenor.gif)
 -->
 
-🔭 Usually I work in everything related to AI, but generalist and curious about everything else too. Might turn things upside down.     
-⚡ Open Source contributor.   
-⚡ I love open source! Ping me for any collaborations that you wanna make!     
+🔭 Although I have worked on a lot of AI areas, I don't believe the world of engineering has limited its wonders to one micro niche. Talk to me about anything and I will be curious.  
+⚡ If collaborations are something you're interested in:     
 📫 Reach me at abhijithneilabrahampk@gmail.com or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
 
 My Huggingface Profile: https://huggingface.co/abhijithneilabraham.  
