@@ -5,11 +5,10 @@
 
 🔭 I love engineering anything. Talk to me about software, hardware, AI, Non-AI, anything, I will be curious.
 
-⚡ If collaborations are something you're interested in:     
+   
 📫 Reach me at abhijithneilabrahampk@gmail.com or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
 
-My Huggingface Profile: https://huggingface.co/abhijithneilabraham.  
-Portfolio: http://abhijithneilabraham.github.io/.         
+    
 
 Recent Blogs: 
 - https://blog.paperspace.com/question-answering-models-a-comparison/
