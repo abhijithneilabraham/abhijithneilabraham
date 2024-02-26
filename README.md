@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 
 
 
-###  👋 Some fun projects:
+###  👋 Check these out:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kindsmiles&repo=pyvigate)](https://github.com/kindsmiles/pyvigate)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=jako)](https://github.com/autonomio/jako)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nfflow&repo=pubmedflow)](https://github.com/nfflow/pubmedflow) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nfflow&repo=redditflow)](https://github.com/nfflow/redditflow) 
