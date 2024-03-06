@@ -26,6 +26,8 @@ Research Publications-
 **abhijithneilabraham/abhijithneilabraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 To know how I iterated my career, check out my [AI roadmap](https://app.reallyconfused.co/roadmap?roadmap=141) ! 
+
+A fun side project: https://aipuzzler.web.app/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
