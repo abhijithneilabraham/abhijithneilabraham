@@ -11,6 +11,7 @@
     
 
 Recent Blogs: 
+- https://www.e2enetworks.com/blog/real-time-object-detection-using-yolov8-step-by-step-walkthrough
 - https://blog.paperspace.com/question-answering-models-a-comparison/
 - https://blog.paperspace.com/tapas-question-answering/
 - https://blog.paperspace.com/sentence-embeddings-pytorch-lightning/
