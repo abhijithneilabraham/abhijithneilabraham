@@ -10,13 +10,14 @@
 
     
 
-Recent Blogs: 
-- https://medium.com/@abhijithneilabraham/solving-your-fomo-about-everything-in-llms-28c93b6b949a
-- https://medium.com/@abhijithneilabraham/data-for-llms-navigating-the-llm-data-pipeline-23a449993782
-- https://www.e2enetworks.com/blog/real-time-object-detection-using-yolov8-step-by-step-walkthrough
-- https://blog.paperspace.com/question-answering-models-a-comparison/
-- https://blog.paperspace.com/tapas-question-answering/
-- https://blog.paperspace.com/sentence-embeddings-pytorch-lightning/
+Blogs:
+- [Solving your FOMO about everything in LLMs](https://medium.com/@abhijithneilabraham/solving-your-fomo-about-everything-in-llms-28c93b6b949a)
+- [Data for LLMs: Navigating the LLM Data Pipeline](https://medium.com/@abhijithneilabraham/data-for-llms-navigating-the-llm-data-pipeline-23a449993782)
+- [Real-time Object Detection using YOLOv8: Step-by-Step Walkthrough](https://www.e2enetworks.com/blog/real-time-object-detection-using-yolov8-step-by-step-walkthrough)
+- [Question Answering Models: A Comparison](https://blog.paperspace.com/question-answering-models-a-comparison/)
+- [TAPAS for Question Answering](https://blog.paperspace.com/tapas-question-answering/)
+- [Using Sentence Embeddings with PyTorch Lightning](https://blog.paperspace.com/sentence-embeddings-pytorch-lightning/)
+
 
 Research Publications-   
 - [BioSimCSE: BioMedical Sentence Embeddings using Contrastive learning](https://aclanthology.org/2022.louhi-1.10/).  
