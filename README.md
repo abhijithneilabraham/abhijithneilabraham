@@ -8,8 +8,17 @@
    
 📫 Reach me at abhijithneilabrahampk@gmail.com or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
 
-    
+<!--
+**abhijithneilabraham/abhijithneilabraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+To know how I iterated my career, check out my [AI roadmap](https://app.reallyconfused.co/roadmap?roadmap=141) ! 
+
+A fun side project: https://aipuzzler.web.app/
+
+-->
+
+
+<!--
 Blogs:
 - [Solving your FOMO about everything in LLMs](https://medium.com/@abhijithneilabraham/solving-your-fomo-about-everything-in-llms-28c93b6b949a)
 - [Data for LLMs: Navigating the LLM Data Pipeline](https://medium.com/@abhijithneilabraham/data-for-llms-navigating-the-llm-data-pipeline-23a449993782)
@@ -25,29 +34,9 @@ Research Publications-
 - [Deep Learning applications with Python-Springer Journal](https://link.springer.com/chapter/10.1007%2F978-3-030-66519-7_2)
 
 
-
-<!--
-**abhijithneilabraham/abhijithneilabraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-To know how I iterated my career, check out my [AI roadmap](https://app.reallyconfused.co/roadmap?roadmap=141) ! 
-
-A fun side project: https://aipuzzler.web.app/
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 ###  👋 Check these out:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vitalops&repo=datatune)](https://github.com/vitalops/datatune)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=autonomio&repo=jako)](https://github.com/autonomio/jako)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nfflow&repo=pubmedflow)](https://github.com/nfflow/pubmedflow) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nfflow&repo=redditflow)](https://github.com/nfflow/redditflow) 
+-->
