@@ -5,6 +5,9 @@
 
 🔭 I love engineering anything. Talk to me about software, hardware, AI, Non-AI, anything, I will be curious.
 
+
+Latest Blog: [A Simple Practical Mental Model for LLM Inference Optimization](https://medium.com/@abhijithneilabraham/a-simple-practical-mental-model-for-llm-inference-optimization-ca3ea989da25)
+
    
 📫 Reach me at abhijithneilabrahampk@gmail.com or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
 
