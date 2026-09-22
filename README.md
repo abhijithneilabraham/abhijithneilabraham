@@ -5,7 +5,7 @@
 
 🔭 I love engineering anything. Lately, I have been working on improving LLM Inference Optimisation, improving benchmark speed of latest models on GPUs. I also have experience building SOTA coding agents that have reached benchmark level accuracy. I can work on every side of ML lifecycle, from automation for enterprises, to serving models in production with improving speed and accuracy and handling millions of users.
 
-Latest Blog: [A Simple Practical Mental Model for LLM Inference Optimization](https://medium.com/@abhijithneilabraham/a-simple-practical-mental-model-for-llm-inference-optimization-ca3ea989da25)
+Check out about me at https://abhijithneilabraham.github.io/
 
    
 📫 Reach me at abhijithneilabrahampk@gmail.com or [LinkedIn](https://www.linkedin.com/in/abhijith-neil-abraham-765165141/. )    
